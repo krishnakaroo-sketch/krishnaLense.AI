@@ -1,0 +1,7 @@
+{
+  "name": "KrishnaLense.AI",
+  "description": "Official AI Headshot Studio by Dr. Krishna Karoo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
